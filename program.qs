@@ -1,4 +1,4 @@
-jsoniq version "1.0"; 
+jsoniq version "1.0";
 
 let $apps:= [
   {"id": 1, "name": "Maps", "provider": "Google"},
